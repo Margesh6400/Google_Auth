@@ -1,11 +1,8 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import OnboardingScreen from '@/screens/onboarding/onboarding.screen'
 
 const index = () => {
   return (
-    <View>
-      <Text>index</Text>
-    </View>
+    <OnboardingScreen />
   )
 }
 
